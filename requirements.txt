@@ -3,3 +3,4 @@ uvicorn
 tensorflow
 numpy
 pillow
+nest_asyncio
