@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-tensorflow-cpu
 numpy
-pillow
-nest_asyncio
+tensorflow
 gdown
+nest-asyncio
+python-multipart
